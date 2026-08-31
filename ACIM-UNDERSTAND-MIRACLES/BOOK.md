@@ -12,7 +12,7 @@ A Course in Miracles is a spiritual curriculum that teaches the path from fear t
 
 ## Lessons From Book
 
-### Lesson 1
+### Lesson 1 - The Meaning of Miracles
 
 #### Examples
 
@@ -70,7 +70,7 @@ Review the day's opportunities for miracles each evening and release mispercepti
 - **Problem:** Becoming attached to spectacular manifestations rather than the love behind them
 - **Problem:** Trying to consciously control or direct miraculous outcomes
 
-### Lesson 2
+### Lesson 2 - The Separation and the Atonement
 
 #### Examples
 
@@ -127,7 +127,7 @@ Extend love and miracles to others as a natural expression of your healed mind
 - **Problem:** Interpreting the light of truth as part of the fearful dream
 - **Problem:** Believing some problems are too difficult for a miracle to heal
 
-### Lesson 3
+### Lesson 3 - The Innocent Perception
 
 #### Examples
 
@@ -186,7 +186,7 @@ Approach the Atonement with willingness to see it clearly, shrouded in no darkne
 - **Problem:** Confusing innocence with ignorance or lack of awareness
 - **Problem:** Shrouding the Atonement in darkness or confusion
 
-### Lesson 4
+### Lesson 4 - The Illusions of the Ego
 
 #### Examples
 
@@ -244,7 +244,7 @@ Commit to choosing spirit over ego in every communication
 - **Problem:** Unconsciously speaking from the ego, thereby disclaiming knowledge
 - **Problem:** Failing to prepare carefully for the true journey
 
-### Lesson 5
+### Lesson 5 - Healing and Wholeness
 
 #### Examples
 
@@ -302,7 +302,7 @@ Respond to every interaction with appreciation and gratitude
 - **Problem:** Believing some are more worthy of healing than others
 - **Problem:** Offering healing from a position of superiority
 
-### Lesson 6
+### Lesson 6 - The Lessons of Love
 
 #### Examples
 
@@ -360,7 +360,7 @@ Use clear examples (like Jesus' life) to understand and apply spiritual principl
 - **Problem:** Assuming teaching requires verbal instruction rather than example
 - **Problem:** Dismissing extreme examples as irrelevant or unattainable
 
-### Lesson 7
+### Lesson 7 - The Gifts of the Kingdom
 
 #### Examples
 
@@ -418,7 +418,7 @@ Trust that the "last step" in reawakening is taken by God—accept the timeless 
 - **Problem:** Engaging in reciprocal bargains instead of giving freely
 - **Problem:** Applying time concepts to God or His creations
 
-### Lesson 8
+### Lesson 8 - The Journey Back
 
 #### Examples
 
@@ -476,7 +476,7 @@ Choose one teacher only: the Holy Spirit (peace, unity, forgiveness), not the eg
 - **Problem:** Believing external circumstances are the source of your lack of peace
 - **Problem:** Trying to blend or synthesize the ego's curriculum with the Atonement's
 
-### Lesson 9
+### Lesson 9 - The Acceptance of the Atonement
 
 #### Examples
 
@@ -534,7 +534,7 @@ Direct your requests to the Holy Spirit for what truly belongs to you: God and L
 - **Problem:** Maintaining the belief that your will is different from God's Will
 - **Problem:** Asking the Holy Spirit for gifts that would hurt you
 
-### Lesson 10
+### Lesson 10 - The Idols of Sickness
 
 #### Examples
 
@@ -592,7 +592,7 @@ Accept that you are part of God and nothing besides you truly exists
 - **Problem:** Feeling victimized by time constraints or schedules
 - **Problem:** Forgetting that your holy mind establishes everything that happens to you
 
-### Lesson 11
+### Lesson 11 - God or the Ego
 
 #### Examples
 
@@ -650,7 +650,7 @@ Shift from projection (ego's method) to extension (God's method) in all relation
 - **Problem:** Continuing to believe the ego is an external authority rather than a self-made system
 - **Problem:** Looking away from the dark cornerstone out of fear
 
-### Lesson 12
+### Lesson 12 - The Holy Spirit's Curriculum
 
 #### Examples
 
@@ -708,7 +708,7 @@ Offer only willingness to give help as your response to any call for help
 - **Problem:** Offering something other than help (advice, judgment, criticism)
 - **Problem:** Making others' behavior about you rather than about their call for help
 
-### Lesson 13
+### Lesson 13 - The Guiltless World
 
 #### Examples
 
@@ -766,7 +766,7 @@ Accept the Atonement for yourself: "I am not guilty. I have not sinned."
 - **Problem:** Focusing on the other's guilt rather than examining your own projections
 - **Problem:** Fighting guilt by force (reinforces its power); undo through understanding
 
-### Lesson 14
+### Lesson 14 - Teaching for Truth
 
 #### Examples
 
@@ -824,7 +824,7 @@ Bring every decision to the Holy Spirit for interpretation, trusting His answers
 - **Problem:** Attempting to blend or compromise between the two logical systems
 - **Problem:** Looking for blessedness in the world rather than through spiritual perception
 
-### Lesson 15
+### Lesson 15 - The Holy Instant
 
 #### Examples
 
@@ -882,7 +882,7 @@ Give the eternal instant to others, that eternity may be remembered for you
 - **Problem:** Withholding the instant from others—you cannot keep it for yourself alone
 - **Problem:** Forgetting the present is all there is; past and future are illusions
 
-### Lesson 16
+### Lesson 16 - The Forgiveness of Illusions
 
 #### Examples
 
@@ -940,7 +940,7 @@ Leave all needs to the Holy Spirit—He will meet them and share everything thro
 - **Problem:** Using empathy to form special relationships based on shared weakness
 - **Problem:** Trying to meet needs secretly to avoid conflict
 
-### Lesson 17
+### Lesson 17 - Forgiveness and the Holy Relationship
 
 #### Examples
 
@@ -998,7 +998,7 @@ Forgive yourself for the same attempt to solve problems through fantasy, then ex
 - **Problem:** Getting angry at others for doing exactly what you do
 - **Problem:** Holding onto resentment instead of extending forgiveness
 
-### Lesson 18
+### Lesson 18 - The Passing of the Dream
 
 #### Examples
 
@@ -1056,7 +1056,7 @@ See your projections as formless and without substance; refuse to judge individu
 - **Problem:** Taking any single projection seriously
 - **Problem:** Trying to undo projections without the Holy Spirit's guidance
 
-### Lesson 19
+### Lesson 19 - The Attainment of Peace
 
 #### Examples
 
@@ -1114,7 +1114,7 @@ Create a holy instant: withdraw from time and turn entirely to truth with your b
 - **Problem:** Seeking grace for the body alone—grace operates at the level of mind
 - **Problem:** Using spiritual principles to fix temporal problems (inverts true purpose)
 
-### Lesson 20
+### Lesson 20 - The Vision of Holiness
 
 #### Examples
 
@@ -1172,7 +1172,7 @@ Look for the face of Christ behind the veil by offering the gift of lilies and f
 - **Problem:** Seeing others as strangers rather than ancient Friends
 - **Problem:** Holding onto thorns when redemption is near
 
-### Lesson 21
+### Lesson 21 - Reason and Perception
 
 #### Examples
 
@@ -1230,7 +1230,7 @@ Use the world as a diagnostic tool: whatever you consistently perceive reveals y
 - **Problem:** Accepting chaotic perceptions as final truths
 - **Problem:** Assuming there is a neutral middle ground between condemnation and holiness
 
-### Lesson 22
+### Lesson 22 - Salvation and the Holy Relationship
 
 #### Examples
 
@@ -1288,7 +1288,7 @@ Allow the relationship to teach by undoing illusions and shifting faith from sep
 - **Problem:** Trying to undo sin through individual effort rather than through the relationship
 - **Problem:** Clinging to the uniqueness of errors rather than seeing their sameness
 
-### Lesson 23
+### Lesson 23 - The War Against Yourself
 
 #### Examples
 
@@ -1346,7 +1346,7 @@ Walk clean and happy through the world, extending the redemption your innocence 
 - **Problem:** Confusing the absence of enemies with vulnerability
 - **Problem:** Thinking the war can be won by fighting harder (it ends only by laying down weapons)
 
-### Lesson 24
+### Lesson 24 - The Goal of Specialness
 
 #### Examples
 
@@ -1404,7 +1404,7 @@ Align beliefs with truth, knowing that what God creates has no alternative
 - **Problem:** Making decisions without recognizing the belief system driving them
 - **Problem:** Believing questioning values is optional or only for beginners
 
-### Lesson 25
+### Lesson 25 - The Justice of God
 
 #### Examples
 
@@ -1462,7 +1462,7 @@ Practice the core principle: no one can lose for you to gain; let love, not veng
 - **Problem:** Believing God's justice is like human justice—punitive and vengeful
 - **Problem:** Using your specialness to elevate yourself above others rather than serve them
 
-### Lesson 26
+### Lesson 26 - The Transition
 
 #### Examples
 
@@ -1520,7 +1520,7 @@ Recognize each moment as an opportunity for rebirth through your brother's sinle
 - **Problem:** Trying to keep your brother imprisoned in his self-perception
 - **Problem:** Thinking rebirth is a one-time event rather than available in every instant
 
-### Lesson 27
+### Lesson 27 - The Healing of the Dream
 
 #### Examples
 
@@ -1578,7 +1578,7 @@ Allow the body to represent life, sending the message: "Behold me, brother, at y
 - **Problem:** Thinking you must change the body to change its witness
 - **Problem:** Continuing to use the body as a sign of death and guilt
 
-### Lesson 28
+### Lesson 28 - The Undoing of Fear
 
 #### Examples
 
@@ -1636,7 +1636,7 @@ Stop for an instant and be still—this is where the miracle enters
 - **Problem:** Believing the past caused the present and therefore determines it
 - **Problem:** Fearing the stillness that precedes the miracle
 
-### Lesson 29
+### Lesson 29 - The Awakening
 
 #### Examples
 
@@ -1694,7 +1694,7 @@ Take back the authority you have given to physical conditions; see the body as a
 - **Problem:** Romanticizing hate as a form of strength
 - **Problem:** Retreating from the path because awakening feels unfamiliar or scary
 
-### Lesson 30
+### Lesson 30 - The New Beginning
 
 #### Examples
 
@@ -1752,7 +1752,7 @@ Conclude with: "Perhaps there is another way to look at this. What can I lose by
 - **Problem:** Delaying correction after judgment, allowing fear to build
 - **Problem:** Looking back at idols when tempted
 
-### Lesson 31
+### Lesson 31 - The Final Vision
 
 #### Examples
 

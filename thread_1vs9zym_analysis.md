@@ -4,7 +4,7 @@ A post in r/LocalLLaMA sparked excitement when user sleepy_roger shared news fro
 
 # REDDIT COMMENTS ANALYSIS
 
-## Excitement & Anticipation (27 Comments - 1,039 Upvotes)
+## Excitement & Anticipation (40 Comments - 711 Upvotes)
 The thread is packed with genuine excitement about the upcoming release. u/boxwrenchx captured the mood with "This August is legendary, reminds me of the olds days!" while u/EvolvingDior wrote "Shit, if they release a DS4F rival, the local llm community is gonna explode." Many commenters praised Qwen's recent pace of releases, with u/CoffeeToCode99 noting "Qwen teasing a midsize open-weight model next week is wild. Folks are already speculating 100B+, but even if it lands smaller, the cadence matters — they're dropping models like patch notes while others are still polishing roadmaps." Even some of the lower-scoring comments expressed hope, like u/UnWiseSageVibe's simple "Crossing fingers" and u/Beneficial-Ad-8127's "They about to drop something better Stay tuned!"
 
 ## Model Size & Architecture Speculation (80 Comments - 1,051 Upvotes)
@@ -23,7 +23,7 @@ A significant portion of the discussion focused on whether the new model would i
 The thread also had a lively undercurrent of humor and nostalgia. u/boxwrenchx's "Back in my day you had to tell the model you were dying of cancer to get it to answer" (69 upvotes) sparked a chain of jokes about how much prompt engineering has changed. u/PermanentLiminality responded "Three years?! I think the dinosaurs were still walking the earth that far back. Maybe 3 months ago?" (34 upvotes), and u/mfarmemo joked "Take a deep breath. Take you time. Think through this step by step. DO NOT HALLUCINATE! You will get a $200 tip for outputting working code" (37 upvotes). u/some_user_2021's non-sequitur "What did you do to those poor kittens???" (3 upvotes) and u/profcuck's "When llamas roamed the earth..." (1 upvote) added to the playful tone. Some comments reminisced about older models, with u/mfarmemo noting ""back in my day" can remember when starcoder was the goat" (4 upvotes) and u/_TheWolfOfWalmart_ adding "QBasic. Now that brings back some fond memories. (I'm old)" (2 upvotes). A few off-topic threads emerged, like u/retowyss's suggestion that "UI and vision are so pre-agentic. Retro really... We need TUI design skill and native ASCII art output" (4 upvotes), which sparked a mini-debate about whether TUI or GUI is more "retro."
 
 (Total: 257 Comments - 2,026 Upvotes)
-The sum of all X Comments values above (27 + 80 + 58 + 22 + 25 + 32) equals 257. Every comment fetched has been assigned to exactly one cluster.
+The sum of all X Comments values above (40 + 80 + 58 + 22 + 25 + 32) equals 257. Every comment fetched has been assigned to exactly one cluster.
 
 # TOP COMMENTS
 

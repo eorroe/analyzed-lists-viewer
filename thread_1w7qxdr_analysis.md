@@ -41,7 +41,54 @@ A handful of short, direct questions popped up throughout the thread. Readers as
 ## 100+ Upvotes
 
 u/NyraReh
-"OT: This was genuinely really pleasant to read. It's honestly rare for me to come across a Reddit post this coherent and well-structured. You gave enough context to understand the issue, used concrete examples, and kept the criticism balanced. Really solid post." (131 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x357f/
+"OT: This was genuinely really pleasant to read. It's honestly rare for me to come across a Reddit post this coherent and well-structured. You gave enough context to understand the issue, used concrete examples, and kept the criticism balanced. Really solid post." (131 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x5ahw/
+
+## 50+ Upvotes
+
+u/ZenenoDev
+"If anyone was wondering. Yes In spite of this increase in cost and questionable choices the model makes I do infact still make sure to say thank you. Just want to put that out there.
+
+https://preview.redd.it/wfxmmywm5nnh1.png?width=947&format=png&auto=webp&s=5aeadb9dce8ce1718601fc5d3a1c0a36076a0b28
+
+" (51 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x9jv6/
+
+## 40+ Upvotes
+
+u/br_k_nt_eth
+"It does seem like they're really pushing for long form autonomous agentic stuff at the cost of collaborative skills, and man, I just don't know if that's the way to go. It seems like a fundamental misunderstanding of how people actually want to engage with AI. 
+
+That said, the first days are always rocky. I think they're still sorting things out. " (43 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x55pg/
+
+## 30+ Upvotes
+
+u/GeologistAndy
+"I have found this with 5.4 onwards. 
+
+I'm a huge proponent for writing readable code regardless of whether you're using an LLM or your own brain. 
+
+I've found that the latest models often seem to solve problems in an unnecessarily complex way - or at least take an approach that increases the time it takes to understand the code, in my opinion unnecessarily.
+
+In addition, they often go out of their way to forgive malformed inputs or requests. This leads to entire modules of distracting normalisation functions. We should instead be gracefully rejecting said requests.
+
+The fix for this I have found is to add a skill or meta prompt that says something along the lines of "Please write simple code even if it is 'worse' code". 
+
+I appreciate many may have an allergic reaction to 'worse code' - but it certainly improves readability!" (36 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7xyieg/
+
+## 20+ Upvotes
+
+u/ZenenoDev
+"Thank you! As I mentioned, I almost never post about models, so the fact that this prompted me to speak up says something about how much it affected my experience. I felt it was important to clearly explain what wasn't working for me and why and maybe others would relate." (27 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x68uu/
+
+## 10+ Upvotes
+
+u/ZenenoDev
+"I hope they work it out. There's some irony in the fact that I'm heavily involved in developing an autonomous coding system myself while criticizing the lack of collaboration in newer a model.
+
+Autonomous coding can work well when the user's starting point is a clearly scoped application with straightforward requirements. But for large, deeply interconnected systems with multiple architectural layers and more abstract goals, I don't think maximizing autonomy is the right default.
+
+Working effectively on those projects requires a coherent understanding of the entire system: how the components interact, why certain decisions were made, and how an individual change serves the broader vision. In my experience, models still struggle to maintain that understanding consistently, particularly when the work involves unconventional ideas or creative problem-solving. Moving ahead independently can compound a misunderstanding before the developer has a chance to catch it.
+
+For general-purpose coding assistants, I'd like collaboration to remain central. The degree of autonomy should reflect how clearly the task is defined and how well the model understands the constraints. Developers building complex or unconventional systems need an assistant that can discuss tradeoffs, clarify intent, and recognize when a decision needs their input. That judgment is a major part of what makes a coding model useful." (17 Upvotes) - https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/p7x5yr3/
 
 # ORIGINAL POST
 
